@@ -1,4 +1,3 @@
-Software Engineering, 2025!
 
 ## Problem/Example:
 You have coins of denominations 1, 5, and 10, and you want to make 28 cents using the fewest coins.
@@ -31,3 +30,4 @@ https://www.youtube.com/watch?v=xDWZzD4TPO0
 <a href="https://www.youtube.com/watch?v=xDWZzD4TPO0">
   <img width="554" height="306" alt="image" src="https://github.com/user-attachments/assets/c15a60ec-7719-4b3e-b882-4eab22f5d34b" />
 </a>
+Software Engineering, 2025!
