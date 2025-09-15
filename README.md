@@ -27,7 +27,12 @@ Machine learning decision trees can handle complex interactions between features
 ## Video
 
 https://www.youtube.com/watch?v=xDWZzD4TPO0
+
 <a href="https://www.youtube.com/watch?v=xDWZzD4TPO0">
   <img width="554" height="306" alt="image" src="https://github.com/user-attachments/assets/c15a60ec-7719-4b3e-b882-4eab22f5d34b" />
 </a>
-Software Engineering, 2025!
+
+
+## Other info
+[Worksheet](https://docs.google.com/document/d/1c0MIvB2AMukDWGTeG8maJg_pK3zUZyiLl1fco2_GfXE/edit?usp=sharing)
+_Software Engineering, 2025!_
