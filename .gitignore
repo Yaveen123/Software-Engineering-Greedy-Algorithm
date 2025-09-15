@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+vendor/
+.venv/
+build/
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+log/
+tmp/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.c9/
+
+# Sensitive data
+.env
+.env.local
+.env.development
+.env.production
+secrets.json
+config.json
