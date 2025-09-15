@@ -1,9 +1,14 @@
 
 ## Problem/Example:
 You have coins of denominations 1, 5, and 10, and you want to make 28 cents using the fewest coins.
-Step-by-step process: start with 28 cents. Use the largest coin (10 cents).
-Take two 10 cent coins. Remaining amount = 28 − 20 = 8 cents. Use the largest coin (5 cents): Take one 5 cent coin. Remaining amount = 8 − 5 = 3 cents.
-Use the largest coin (1 cent): Take three 1 cent coins. Remaining amount = 3 − 3 = 0 cents.
+
+**Step-by-step process:** 
+
+- start with 28 cents. Use the largest coin (10 cents).
+- Take two 10 cent coins. Remaining amount = 28 − 20 = 8 cents.
+- Use the largest coin (5 cents): Take one 5 cent coin. Remaining amount = 8 − 5 = 3 cents.
+- Use the largest coin (1 cent): Take three 1 cent coins. Remaining amount = 3 − 3 = 0 cents.
+
 Coins used:
 2 (10 cents) +1 (5 cents) + 3 (1 cent) = 6 coins total.
 
