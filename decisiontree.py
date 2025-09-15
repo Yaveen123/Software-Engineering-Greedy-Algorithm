@@ -1,4 +1,3 @@
-
 coin_set = [10,5,1]
 # must be ordered from largest to smallest
 
